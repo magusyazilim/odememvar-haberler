@@ -1,0 +1,13 @@
+{
+  "haberler": [
+    {
+      "id": 1,
+      "baslik": "🎉 Ödemem Var! seni bekliyordu",
+      "icerik": "Uygulamayı indirdiğin için teşekkürler. Gelir-gider, krediler ve birikimlerini buradan kolayca takip edebilirsin.",
+      "tarih": "2026-06-18",
+      "min_surum": "1.0.0",
+      "buton_metni": null,
+      "buton_link": null
+    }
+  ]
+}
